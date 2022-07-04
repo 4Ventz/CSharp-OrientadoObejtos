@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\bin\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\bin\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\bin\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\bin\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\bin\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\refint\Opcional1 - Exercicio_MercadoMenorPreço.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\Opcional1 - Exercicio_MercadoMenorPreço.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional1 - Exercicio_MercadoMenorPreço\obj\Debug\net6.0\ref\Opcional1 - Exercicio_MercadoMenorPreço.dll

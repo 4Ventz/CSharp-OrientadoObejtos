@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Opcional1 - Exercicio_MercadoMenorPreço/1.0.0": {
+        "runtime": {
+          "Opcional1 - Exercicio_MercadoMenorPreço.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opcional1 - Exercicio_MercadoMenorPreço/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
