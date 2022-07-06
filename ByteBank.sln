@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBank.csproj", "{3F9242DD-C57F-4AA6-8F13-8407FC35CB36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opcional1 - Exercicio_MercadoMenorPreço", "Opcional1 - Exercicio_MercadoMenorPreço\Opcional1 - Exercicio_MercadoMenorPreço.csproj", "{B35CCF55-CCFE-4120-87EA-9A6B65058EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opcional1 - Exercicio_MercadoMenorPreço", "Opcional1 - Exercicio_MercadoMenorPreço\Opcional1 - Exercicio_MercadoMenorPreço.csproj", "{B35CCF55-CCFE-4120-87EA-9A6B65058EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opcional2 - CadastroDePacientes", "Opcional2 - CadastroDePacientes\Opcional2 - CadastroDePacientes.csproj", "{CD846003-423A-4847-BEE0-C12DB9553DE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B35CCF55-CCFE-4120-87EA-9A6B65058EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35CCF55-CCFE-4120-87EA-9A6B65058EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35CCF55-CCFE-4120-87EA-9A6B65058EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD846003-423A-4847-BEE0-C12DB9553DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD846003-423A-4847-BEE0-C12DB9553DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD846003-423A-4847-BEE0-C12DB9553DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD846003-423A-4847-BEE0-C12DB9553DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

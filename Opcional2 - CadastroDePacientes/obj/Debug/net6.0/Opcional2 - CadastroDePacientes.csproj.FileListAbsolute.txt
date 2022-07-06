@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\bin\Debug\net6.0\Opcional2 - CadastroDePacientes.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\bin\Debug\net6.0\Opcional2 - CadastroDePacientes.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\bin\Debug\net6.0\Opcional2 - CadastroDePacientes.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\bin\Debug\net6.0\Opcional2 - CadastroDePacientes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\bin\Debug\net6.0\Opcional2 - CadastroDePacientes.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\refint\Opcional2 - CadastroDePacientes.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\Opcional2 - CadastroDePacientes.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional2 - CadastroDePacientes\obj\Debug\net6.0\ref\Opcional2 - CadastroDePacientes.dll
