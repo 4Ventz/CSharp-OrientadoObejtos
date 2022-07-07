@@ -47,5 +47,14 @@
                 return true;
             }
         }
+
+        public void ExibirDadosDaConta()
+        {
+            Console.WriteLine("Titular:" + titular);
+            Console.WriteLine("Número da conta: " + conta);
+            Console.WriteLine("Nome da agência: " + nome_agencia);
+            Console.WriteLine("Número da agência: " + numero_agencia);
+            Console.WriteLine("Saldo: " + saldo);
+        }
     }
 }
