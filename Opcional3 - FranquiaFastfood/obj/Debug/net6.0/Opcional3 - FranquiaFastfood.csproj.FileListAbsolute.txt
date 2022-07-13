@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\bin\Debug\net6.0\Opcional3 - FranquiaFastfood.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\bin\Debug\net6.0\Opcional3 - FranquiaFastfood.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\bin\Debug\net6.0\Opcional3 - FranquiaFastfood.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\bin\Debug\net6.0\Opcional3 - FranquiaFastfood.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\bin\Debug\net6.0\Opcional3 - FranquiaFastfood.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\refint\Opcional3 - FranquiaFastfood.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\Opcional3 - FranquiaFastfood.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional3 - FranquiaFastfood\obj\Debug\net6.0\ref\Opcional3 - FranquiaFastfood.dll

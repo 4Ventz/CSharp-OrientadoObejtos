@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\bin\Debug\net6.0\Opcional4 - ProblemaPropriedades.exe
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\bin\Debug\net6.0\Opcional4 - ProblemaPropriedades.deps.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\bin\Debug\net6.0\Opcional4 - ProblemaPropriedades.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\bin\Debug\net6.0\Opcional4 - ProblemaPropriedades.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\bin\Debug\net6.0\Opcional4 - ProblemaPropriedades.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\refint\Opcional4 - ProblemaPropriedades.dll
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.pdb
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\Opcional4 - ProblemaPropriedades.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\CSharp - Orientacao a objetos\ByteBank\Opcional4 - ProblemaPropriedades\obj\Debug\net6.0\ref\Opcional4 - ProblemaPropriedades.dll
