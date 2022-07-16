@@ -39,16 +39,20 @@ Console.WriteLine();
 //    Console.WriteLine("O campo titular está nulo");
 //}
 
-Cliente sarah = new Cliente();
-sarah.Nome = "Sara Silva";
+//Cliente sarah = new Cliente();
+//sarah.Nome = "Sara Silva";
 
 
-ContaCorrente conta5 = new ContaCorrente(235,"123456-x"); //fornecendo nº da agencia e nº da conta
-conta5.Saldo = 100;
-conta5.Titular = sarah;
-Console.WriteLine("Titular: " + conta5.Titular.Nome);
-Console.WriteLine("saldo: " + conta5.Saldo);
-Console.WriteLine("Nº agência: " + conta5.Numero_agencia);
-Console.WriteLine("Nº conta: " + conta5.Conta);
+//ContaCorrente conta5 = new ContaCorrente(235,"123456-x"); //fornecendo nº da agencia e nº da conta
+//conta5.Saldo = 100;
+//conta5.Titular = sarah;
+//Console.WriteLine("Titular: " + conta5.Titular.Nome);
+//Console.WriteLine("saldo: " + conta5.Saldo);
+//Console.WriteLine("Nº agência: " + conta5.Numero_agencia);
+//Console.WriteLine("Nº conta: " + conta5.Conta);
+
+ContaCorrente conta6 = new ContaCorrente("Eduardo", "Agência central", 276, "123456-a");
+
+Console.WriteLine("O total de contas criadas é: " + ContaCorrente.TotalDeContasCriadas);
 
 Console.ReadKey();
